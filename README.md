@@ -89,7 +89,7 @@
 
 ## 💼 Featured Projects
 
-### 🔗 [FlowForge]([https://github.com/UltraMoonEagle/FlowForge])
+### 🔗 [FlowForge](https://github.com/UltraMoonEagle/FlowForge)
 **Enterprise iPaaS Workflow Automation Platform**
 `NestJS` `TypeScript` `Redis` `BullMQ` `React` `PostgreSQL`
 
@@ -98,7 +98,7 @@
 - Real-time monitoring with WebSocket-driven updates
 - Topological sorting, structured logging, retry/failure policies
 
-### 🔐 [PenGUIn]((https://github.com/fromjyce/PenGUIn))
+### 🔐 [PenGUIn](https://github.com/fromjyce/PenGUIn)
 **One-Click Ubuntu Hardening Application**
 `PyGTK` `SQLite` `IPtables` `Linux Shell`
 
@@ -107,7 +107,7 @@
 - Integrated AIDE (Intrusion Detection) & 2FA
 - Auto-updater for seamless security patches
 
-### 📦 [Archiva](https://github.com/Adithya-A/archiva)
+### 📦 [Archiva]((https://github.com/Adithya-A/archiva))
 **Decentralized Smart Contract Archival Solution**
 `Aptos Move` `zk-SNARKs` `IPFS` `Arweave` `React` `Solidity`
 
@@ -116,7 +116,7 @@
 - Zero-knowledge proofs for privacy-preserving archival
 - MetaMask integration for seamless deployment
 
-### 🦠 [MEMZ Analysis](https://github.com/Adithya-A/memz-analysis)
+### 🦠 [MEMZ Analysis]((https://github.com/Adithya-A/memz-analysis))
 **Malware Analysis & Reverse Engineering**
 `C++` `Windows API` `IDA Pro` `Shellcode`
 
