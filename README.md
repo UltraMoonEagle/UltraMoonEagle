@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adithya Azhagiri</h1>
 <h3 align="center">Cybersecurity Researcher | Blockchain Developer | CTF Enthusiast | Full-Stack Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adithya-a&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-  <img src="https://img.shields.io/github/followers/adithya-a?label=Followers&style=social" alt="followers" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/api/?username=adithya-a&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
